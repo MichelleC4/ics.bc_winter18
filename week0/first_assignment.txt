@@ -1,8 +1,6 @@
 1) What are three interesting facts about you?
-I was born in Canada, I hate most fruits and I can wiggle my ears.
-
+  I was born in Canada, I hate most fruits and I can wiggle my ears.
 2) What's your favorite song and movie?
-Favorite song would be I want to break free by Queen and favorite movie would be Lion King.
-
+  Favorite song would be I want to break free by Queen and favorite movie would be Lion King.
 3) Why do you want to learn how to program?
-It is interesting to learn another language that isn't spoken but typed and read.
+  It is interesting to learn another language that isn't spoken but typed and read.
