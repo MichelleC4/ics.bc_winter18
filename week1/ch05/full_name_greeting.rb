@@ -4,7 +4,6 @@
 
 
 ### Your Code Here ###
-
 puts 'What\'s your first name?'
 first = gets.chomp
 puts 'What\'s your middle name?'
