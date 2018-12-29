@@ -4,3 +4,7 @@
 
 
 ### Your Code Here ###
+
+puts 'WHAT DO YOU WANT!!!'
+reply = gets.chomp
+puts 'WHADDAYA MEAN ' + reply.upcase + ' YOU ARE FIRED!!!!!!!!'
