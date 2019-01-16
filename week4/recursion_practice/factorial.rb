@@ -4,7 +4,11 @@
 def factorial(n)
 
   # YOUR CODE HERE #
-
+  if n < 2
+    return 1
+  else
+    return n * factorial(n - 1)
+  end
 end
 
 puts(factorial(3)) # expected: 6
