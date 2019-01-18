@@ -3,14 +3,14 @@
 
 def array_max(array)
   if array.length == 1  # base case
-    return _________
+    return array
   else
-    last = _________
-    rest = _________________  # recursive call - array is now shorter
+    last = 0
+    rest = array_max(array - 1) # recursive call - array is now shorter
     if last > rest
-      return ______
+      return array_max(array.pop())
     else
-      return ______
+      return array[0]
     end
   end
 end
